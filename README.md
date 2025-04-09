@@ -18,6 +18,10 @@ Welcome to my GitHub profile! I'm passionate about building impactful applicatio
 
 - Mobile App Development (especially cross-platform with React Native)
 - Full Stack Web Development
+- Java programming
+- Python programming
+- Artificial Intelligence (Machine learning & Deep learning)
+- Oracle DBA
 - Automation & DevOps
 - Open Source Contributions
 - Building scalable and efficient backend systems
@@ -31,12 +35,16 @@ Welcome to my GitHub profile! I'm passionate about building impactful applicatio
 - Cloud Services (AWS, GCP)
 - PDF/Word automation and integration
 - CI/CD Pipelines and Monitoring tools
+- Linux OS/ iOS System
+- Oracle Database Administration
 
 -------------------------------------------------------------------------------------------------------------------
 
 ## 💞️ I’m Looking to Collaborate On
 
 - React Native mobile projects
+- Android Studio Projects
+- S/W Developer 
 - Healthcare / Pathology lab automation tools
 - Full-stack projects using Firebase / Django backend
 - Open source tools for farmers or social good
@@ -45,8 +53,8 @@ Welcome to my GitHub profile! I'm passionate about building impactful applicatio
 
 ## 📫 How to Reach Me
 
-- 📧 Email: sandipmule.sm@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/sandip-suresh-mule)
+- 📧 Email: sandipmule1997@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/sandip-mule-b05508172/)
 - 🌐 Portfolio (coming soon...)
 
 ----------------------------------------------------------------------------------------------------------------------
