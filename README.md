@@ -18,10 +18,10 @@ Welcome to my GitHub profile! I'm passionate about building impactful applicatio
 
 - Mobile App Development (especially cross-platform with React Native)
 - Full Stack Web Development
+- Oracle DBA
 - Java programming
 - Python programming
 - Artificial Intelligence (Machine learning & Deep learning)
-- Oracle DBA
 - Automation & DevOps
 - Open Source Contributions
 - Building scalable and efficient backend systems
@@ -31,12 +31,13 @@ Welcome to my GitHub profile! I'm passionate about building impactful applicatio
 ## 🌱 I’m Currently Learning
 
 - Advanced React Native with TypeScript
+- Oracle Database Administration
 - DevOps tools (Docker, Kubernetes, Jenkins)
 - Cloud Services (AWS, GCP)
 - PDF/Word automation and integration
 - CI/CD Pipelines and Monitoring tools
 - Linux OS/ iOS System
-- Oracle Database Administration
+
 
 -------------------------------------------------------------------------------------------------------------------
 
@@ -55,7 +56,7 @@ Welcome to my GitHub profile! I'm passionate about building impactful applicatio
 
 - 📧 Email: sandipmule1997@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/sandip-mule-b05508172/
-- 🌐 Portfolio: https://sandipmule-portpolio.netlify.app/
+- 🌐 Portfolio: https://sandipmule-portfolio.netlify.app/
 
 ----------------------------------------------------------------------------------------------------------------------
 
