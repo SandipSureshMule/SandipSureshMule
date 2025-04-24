@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm passionate about building impactful applicatio
 
 - Mobile App Development (especially cross-platform with React Native)
 - Full Stack Web Development
-- Oracle DBA
+- Oracle DBA / RAC
 - Java programming
 - Python programming
 - Artificial Intelligence (Machine learning & Deep learning)
@@ -31,7 +31,7 @@ Welcome to my GitHub profile! I'm passionate about building impactful applicatio
 ## 🌱 I’m Currently Learning
 
 - Advanced React Native with TypeScript
-- Oracle Database Administration
+- Oracle Database Administration / RAC
 - DevOps tools (Docker, Kubernetes, Jenkins)
 - Cloud Services (AWS, GCP)
 - PDF/Word automation and integration
